@@ -1,3 +1,4 @@
 package zgtool
 
-// https://github.com/go-resty/resty
+// github.com/go-resty/resty
+// github.com/parnurzeal/gorequest
