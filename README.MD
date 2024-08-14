@@ -2,6 +2,10 @@
 
 #### 通用工具包，包括日志记录、gin框架返回、post/get请求等等
 
+```
+go get -v github.com/ljlong0908/zgtool
+```
+
 ### RSA
 #### GenerateRSAKeyPair 生成RSA密钥对并返回公私钥字符串
 #### Sign 私钥加签
