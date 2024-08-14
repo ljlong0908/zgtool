@@ -1,5 +1,9 @@
 # 工具库
 
+```
+go get -v github.com/ljlong0908/zgtool
+```
+
 ### RSA
 #### GenerateRSAKeyPair 生成RSA密钥对并返回公私钥字符串
 #### Sign 私钥加签
