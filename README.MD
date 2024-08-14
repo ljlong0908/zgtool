@@ -1,4 +1,6 @@
-# 工具库
+# 中工科创-go工具包
+
+#### 通用工具包，包括日志记录、gin框架返回、post/get请求等等
 
 ### RSA
 #### GenerateRSAKeyPair 生成RSA密钥对并返回公私钥字符串
