@@ -1,4 +1,4 @@
-package zgtools
+package zgtool
 
 import (
 	"crypto"
