@@ -1,4 +1,6 @@
-# 工具库
+# 中工科创-go工具包
+
+#### 通用工具包，包括日志记录、gin框架返回、post/get请求等等
 
 ```
 go get -v github.com/ljlong0908/zgtool
